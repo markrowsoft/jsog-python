@@ -4,13 +4,14 @@ This Python module serializes and deserializes cyclic object graphs in the [JSOG
 
 ## Source code
 
-The official repository is (https://github.com/simoneggler/jsog-python) which is a fork of (https://github.com/jsog/jsog-python).
+The fork history:
+(https://github.com/simoneggler/jsog-python) 
+-> (https://github.com/jsog/jsog-python) 
+-> (https://github.com/markrowsoft/jsog-python) .
 
 ## Download
 
-Jsog is available in PyPI:
-
-    $ pip install jsog3
+pyjsog - comming soon
 
 ## Usage
 
